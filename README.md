@@ -9,3 +9,5 @@ sudo apt install nasm
 nams -f elf64 -o xxx.o xxx.asm
 ld -o xxx xxx.o
 ```
+## 在线编译网站
+https://onecompiler.com/assembly
